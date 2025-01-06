@@ -1,3 +1,13 @@
 {
-    "Convention": "InPlaceOverwrite"
+    "snippetsFiles": [
+        "snippets.md"
+    ],
+    "TargetDirectory": "F:\\dotnet\\temp",
+    "UrlPrefix": "",
+    "LinkFormat": "GitHub",
+    "Convention": "InPlaceOverwrite",
+    "TocLevel": 2,
+    "ValidateContent": false,
+    "OmitSnippetLinks": false,
+    "TreatMissingAsWarning": false
 }
